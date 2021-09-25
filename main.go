@@ -9,5 +9,5 @@ func repeatMe(words ...string) {
 }
 
 func main() {
-	repeatMe("luca", "jin", "suzu", "lay")
+	repeatMe("luca", "jin", "suzu", "lay", "money", "life")
 }
